@@ -1,6 +1,6 @@
-# we_chat
+## We Chat
 
-A new Flutter project.
+A Flutter Project for personal, private and secure communication between users.
 
 ## Getting Started
 
