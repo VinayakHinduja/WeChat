@@ -372,7 +372,7 @@ class APIs {
         headers: {
           HttpHeaders.contentTypeHeader: 'application/json',
           HttpHeaders.authorizationHeader:
-              'key=AAAAuJcZr5Q:APA91bGSaNzVejxdjX95QKxoujb-O3fgEQyytXuakaz23eEPwqZhkhz7Hx_QznBR7eRH-Qr7BKXmTPzCMdNdDu9mqmEeaAE85hBFUX9Bsqw0EjmetbKZ_6PJ5bW5b1hZ-JjxzB8MuXTk',
+              'key=APIKEY',
         },
       );
       log(' res body: ${res.body}');
